@@ -128,3 +128,23 @@ Finalmente la página se ve correctamente al desactivar el javascript y es apta 
 
 ### Rediseño
 
+Para el rediseño voy a intentar mantener los elementos principales del original, esto es, mantener el logo y sus colores base. Para obtenerlos he usado una captura de pantalla y conseguido sus valores hexadecimales accediendo a [https://imagecolorpicker.com/](https://imagecolorpicker.com/).
+
+Para crear la paleta he usado [https://coolors.co/](https://coolors.co).
+
+Mi propuesta de paleta es la siguiente:
+
+![](./img/paleta.png)
+
+donde he intentado reducir el número de colores empleados manteniendo el amarillo y negro del logo, que se asocian a Yuzin.
+
+Para la tipografía, voy a usaré "Source Serif Pro" para la web por su legibilidad y simpleza, y para los títulos usaré "Maitree" ya que es una fuente similar a la empleada en el logo.
+
+![](./img/sourceserifpro.png)
+
+![](./img/maitree.png)
+
+Falta el wireframe y el mockup :D
+
+
+
