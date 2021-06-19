@@ -186,5 +186,11 @@ Finalmente, basándonos en el wireframe hecho anteriormente y usando la paleta d
 
 ![](./img/fotos_mockup/Ayuda.png)
 
-El mockup puede consultarse en formato pdf [aquí]().
+El mockup puede consultarse en formato pdf [aquí](https://github.com/Mapachana/DIU21-TrabajoFinal/blob/master/mockup.pdf).
+
+El rediseño ha sido leve, manteniendo el logo y colores principales, con el fin de que la marca no pierda su identidad y siga siendo reconocible por todos sus usuarios previos. Es decir, cualquier persona que conociera Yuzin de antes, sigue reconociendo su logo y colores, de forma que no se ha perdido continuidad ni se ha realizado un branding desde cero, de esta forma no confundimos a los usuarios. He querido hacerlo así ya que es algo bastante común en marcas grandes, por ejemplo discord realizó un rebranding hace poco cambiando el logo, tipografía y paleta de colores ligeramente, de manera que sigue siendo perfectamente reconocible por todos y no empieza desde cero. Otras compañías más grandes, como google, pueden permitirse hacer un rebranding desde cero debido a su alta popularidad. Como Yuzin es un club relativamente pequeño, he preferido mantener el núcleo de su identidad intacto.
+
+Además, el rediseño de la página no ha sido notorio en cuanto a diseño en general, me he centrado en corregir pequeños errores como el buscador usando calendarios especificando fecha de comienzo y fecha de final, unificar los dos menús en uno solo, añadir una funcionalidad para cambiar idioma y recolocar el acceso a la plataforma a un sitio más usual (arriba a la derecha).
+
+También he eliminado el buscador de eventos de las páginas donde no es necesario y dado más relevancia en la página home a la imagen inicial, así como añadido dos letreros: uno para comprar entradas del evento que esté al inicio y otro para hacerse socio de Yuzin, que es el objetivo de la web. Asimismo he unificado las fuentes usando las mencionadas al inicio y reducido considerablemente la paleta de colores de la web original.
 
