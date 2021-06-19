@@ -144,7 +144,47 @@ Para la tipografía, voy a usaré "Source Serif Pro" para la web por su legibili
 
 ![](./img/maitree.png)
 
-Falta el wireframe y el mockup :D
+Primero he realizado el wireframe de las páginas ,más relevantes de la web: home, la página de eventos y la página para descargar la revista.
 
+![](./img/fotos_mockup/wire_home.jpg)
 
+![](./img/fotos_mockup/wire_eventos.jpg)
+
+![](./img/fotos_mockup/wire_descarga.jpg)
+
+Para el diseño de la página, voy a usar diversos patrones:
+
+* [**Calendar picker**](http://ui-patterns.com/patterns/CalendarPicker): Necesario a la hora de filtrar búsquedas según fechas, para poder elegir intervalos de tiempo o días consultando directamente un calendario. Este patrón nos resultará especialmente útil en el buscador de la web.
+
+* [**Input Feedbak**](http://ui-patterns.com/patterns/InputFeedback): Útil cuando un usuario introduce ciertos datos, permitiendo que compruebe por sí mismo y símbolos visuales que los datos introducidos son válidos. Lo usaremos tanto al registrarse como en el apartado de ayuda, que los usuarios pueden usar para contactar y al suscribirse a la newsletter.
+
+* [**Input Prompt**](http://ui-patterns.com/patterns/InputPrompt): Utilizado en el buscador para expresar claramente su funcionalidad. De nuevo, será necesario en el buscador y apartado de contacto para esclarecer la infomación que se requiere en cada apartado.
+
+* [**Home Link**](http://ui-patterns.com/patterns/HomeLink): Utilizamos el logo de la aplicación como enlace directo y desde cualquier página a la página principal (Home). Este patrón afecta a toda la aplicación, haciendo siempre accesible el home de la aplicación en cualquier momento.
+
+* [**Continuous Scrolling**](http://ui-patterns.com/patterns/ContinuousScrolling): Las listas de actividades, establecimientos o las preguntas frecuentes (faq) se encuentran en una misma página que las lista, pudiendo acceder a todas ellas haciendo scroll en la página adecuada.
+
+* [**Tagging**](http://ui-patterns.com/patterns/Tag): Las diversas actividades y establecimientos ofertados admiten etiquetas para simplificar las búsquedas según temas. Además, al buscar eventos estos aparecen con una franja de color (rojo, morado, azul o verde) que indica qué temática tiene cada uno. Por ejemplo, las visitas guiadas llevan una franja verde y las representaciones de teatro una morada, facilitando así al usuario reconocer la temática de cada evento ofertado sin necesidad de leer la descripción.
+
+* [**Frequently Asked Questions (FAQ)**](http://ui-patterns.com/patterns/frequently-asked-questions-faq): Dedicamos una sección de la app a preguntas que suelen repetir los usuarios, de manera que los mismos tengan acceso rápido y sencillo a soluciones frecuentes, facilitando el uso de la aplicación a nuevos usuarios o personas con poco conocimiento en el campo de tecnologías, así como evitamos una saturación del contacto.
+
+* [**Gallery**](http://ui-patterns.com/patterns/Gallery): Utilizamos amplias galerías de imágenes en cada actividad.
+
+* [**Live Filter**](http://ui-patterns.com/patterns/LiveFilter): En el buscador utilizamos varios filtros de distintos tipo para que el usuario haga la búsqueda que más se ajuste a sus necesidades.
+
+* [**Lazy Registration**](http://ui-patterns.com/patterns/LazyRegistration): Permitimos que cualquier usuario que acceda a la app pueda navegar sin ningún problema sin necesidad de registrarse.
+
+Finalmente, basándonos en el wireframe hecho anteriormente y usando la paleta de colores y tipografías especificadas antes, diseñamos el siguiente mockup:
+
+![](./img/fotos_mockup/Home.png)
+
+![](./img/fotos_mockup/Eventos.png)
+
+![](./img/fotos_mockup/Actividad.png)
+
+![](./img/fotos_mockup/Descargar.png)
+
+![](./img/fotos_mockup/Ayuda.png)
+
+El mockup puede consultarse en formato pdf [aquí]().
 
