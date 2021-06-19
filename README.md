@@ -174,7 +174,7 @@ Para el diseño de la página, voy a usar diversos patrones:
 
 * [**Lazy Registration**](http://ui-patterns.com/patterns/LazyRegistration): Permitimos que cualquier usuario que acceda a la app pueda navegar sin ningún problema sin necesidad de registrarse.
 
-Finalmente, basándonos en el wireframe hecho anteriormente y usando la paleta de colores y tipografías especificadas antes, diseñamos el siguiente mockup:
+Finalmente, basándonos en el wireframe hecho anteriormente y usando la paleta de colores y tipografías especificadas antes, diseñamos el siguiente mockup usando Figma:
 
 ![](./img/fotos_mockup/Home.png)
 
